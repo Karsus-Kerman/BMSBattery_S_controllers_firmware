@@ -234,16 +234,16 @@ uint16_t aca_setpoint(uint16_t ui16_time_ticks_between_pas_interrupt, uint16_t s
 		} else { // torque sensor mode
 
 
-		             //erst mal alles aufmultiplizieren, damit beim Teilen was Ã¼ber 1 Ã¼brig bleibt. Bitte mal Ã¼berschlagen, ob die int32 da nicht Ã¼berlaufen kann...
+		             //erst mal alles aufmultiplizieren, damit beim Teilen was über 1 übrig bleibt. Bitte mal überschlagen, ob die int32 da nicht überlaufen kann...
 		             uint32_temp = ui16_sum_torque;
 		             uint32_temp *= ui8_assist_percent_actual;
 		             uint32_temp *= ui16_battery_current_max_value;
 		             uint32_temp *= uint32_torquesensorCalibration;
 
-		             uint32_temp /= ui16_time_ticks_between_pas_interrupt_smoothed; // hier lÃ¤sst sich die geteilt-Operation nicht vermeiden :-(
+		             uint32_temp /= ui16_time_ticks_between_pas_interrupt_smoothed; // hier lässt sich die geteilt-Operation nicht vermeiden :-(
 
 		             if(PAS_is_active)
-		             uint32_current_target = (uint32_temp >>8) +  (uint32_t) ui16_current_cal_b; //right shift 15 fasst die Operationen /100 (annÃ¤hernd >>7) aus der assist_percent und /255 ( >>8) aus dem battery_current max zusammen, ist nicht ganz korrekt, ggf. nur >>14 nehmen -->/(256*128) vs. /(256*64)
+		             uint32_current_target = (uint32_temp >>8) +  (uint32_t) ui16_current_cal_b; //right shift 15 fasst die Operationen /100 (annähernd >>7) aus der assist_percent und /255 ( >>8) aus dem battery_current max zusammen, ist nicht ganz korrekt, ggf. nur >>14 nehmen -->/(256*128) vs. /(256*64)
 		             else uint32_current_target =(uint32_t) ui16_current_cal_b;
 
 
@@ -280,13 +280,6 @@ uint16_t aca_setpoint(uint16_t ui16_time_ticks_between_pas_interrupt, uint16_t s
 				uint32_current_target = (uint32_t) float_temp; 
 
 			controll_state_temp += 16;
-		}
-
-		// check for overspeed
-		uint32_temp = uint32_current_target;
-		uint32_current_target = CheckSpeed((uint16_t) uint32_current_target, (uint16_t) ui16_virtual_erps_speed, (ui16_speed_kph_to_erps_ratio * ((uint16_t) ui8_speedlimit_actual_kph)) / 100, (ui16_speed_kph_to_erps_ratio * ((uint16_t) (ui8_speedlimit_actual_kph + 2))) / 100); //limit speed
-		if (uint32_temp != uint32_current_target) {
-			controll_state_temp += 32;
 		}
 
 		if (uint32_current_target > ui16_battery_current_max_value + ui16_current_cal_b) {

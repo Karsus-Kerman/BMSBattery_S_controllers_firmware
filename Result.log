@@ -1,0 +1,1161 @@
+----------------------------------------------------------
+new log session
+date:				06/14/23
+time:				12:57:57
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				06/14/23
+time:				17:01:39
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				06/16/23
+time:				09:40:17
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				06/16/23
+time:				10:47:42
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				06/16/23
+time:				11:09:09
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				06/16/23
+time:				12:56:29
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				06/16/23
+time:				13:15:16
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				06/28/23
+time:				15:13:16
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				06/28/23
+time:				15:21:17
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				06/28/23
+time:				16:28:49
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				07/31/23
+time:				09:19:19
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				07/31/23
+time:				09:42:25
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				07/31/23
+time:				10:17:06
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				07/31/23
+time:				10:36:09
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				07/31/23
+time:				11:41:33
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				07/31/23
+time:				17:37:32
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				07/31/23
+time:				18:10:31
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/01/23
+time:				20:11:22
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+----------------------------------------------------------
+new log session
+date:				08/01/23
+time:				20:14:12
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+----------------------------------------------------------
+new log session
+date:				08/01/23
+time:				20:17:43
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+----------------------------------------------------------
+new log session
+date:				08/01/23
+time:				20:19:30
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+----------------------------------------------------------
+new log session
+date:				08/01/23
+time:				20:23:51
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+----------------------------------------------------------
+new log session
+date:				08/01/23
+time:				20:25:03
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/01/23
+time:				20:35:00
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/01/23
+time:				21:28:41
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/05/23
+time:				11:56:18
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+No such file or directory
+----------------------------------------------------------
+new log session
+date:				08/05/23
+time:				11:57:18
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+No such file or directory
+----------------------------------------------------------
+new log session
+date:				08/05/23
+time:				12:00:15
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+No such file or directory
+----------------------------------------------------------
+new log session
+date:				08/05/23
+time:				12:02:30
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+No such file or directory
+----------------------------------------------------------
+new log session
+date:				08/05/23
+time:				12:05:24
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/05/23
+time:				12:15:30
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/05/23
+time:				12:17:22
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/05/23
+time:				12:19:34
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/05/23
+time:				12:21:57
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/05/23
+time:				12:24:18
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/07/23
+time:				20:08:50
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/08/23
+time:				19:36:09
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/08/23
+time:				19:52:24
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds
+----------------------------------------------------------
+new log session
+date:				08/08/23
+time:				20:34:35
+----------------------------------------------------------
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S105x6 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file main.hex in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Programming PROGRAM MEMORY
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+<<< Verifying PROGRAM MEMORY succeeds

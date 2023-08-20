@@ -29,8 +29,8 @@
 uint8_t ui8_throttle_min_range = 32;
 uint8_t ui8_throttle_max_range = 192;
 
-
-
+uint16_t ui16_X4_min_range = 263;
+uint16_t ui16_X4_max_range = 398;
 
 uint8_t ui8_speedlimit_kph = 25; // normal limit
 uint8_t ui8_speedlimit_without_pas_kph = 6; // limit without pas activity

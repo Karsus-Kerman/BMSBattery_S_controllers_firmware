@@ -27,6 +27,7 @@
 #include "ACAcontrollerState.h"
 
 static uint8_t ui8_temp;
+static uint16_t ui16_temp;
 
 uint8_t float2int(float in, float maxRange) {
 	uint16_t result;
@@ -216,13 +217,12 @@ void checkPasInActivity(void) {
 	if (ui16_time_ticks_for_pas_calculation > timeout) {
 		// updatePasStatus does not fire if pas inactive, so set interval to reasonably high value here
 		ui16_time_ticks_between_pas_interrupt = 64000L;
-		// also ensure torque array slowly resets
-		ui16_torque[ui8_torque_index] = (uint8_t) map(ui8_throttle_min_range, ui8_throttle_min_range, ui8_throttle_max_range, 0, SETPOINT_MAX_VALUE); //map throttle to limits
+		ui16_torque[ui8_torque_index] = (uint16_t) map(ui16_temp, ui16_X4_min_range, ui16_X4_max_range, 0, SETPOINT_MAX_VALUE); //map throttle to limits
 		ui8_torque_index++;
 		if (ui8_torque_index > NUMBER_OF_PAS_MAGS - 1) {
 			ui8_torque_index = 0;
-		}
-		
+		} //reset index counter
+
 	}
 	// we are called at 50 Hz, if there has been no interrupt for more than ~1s, ramp down PAS automatically
 	if (ui8_PAS_Flag == 0 && ui8_PAS_update_call_when_inactive_counter > (uint8_t) (timeout >> 6)) {
@@ -262,8 +262,8 @@ void updatePasStatus(void) {
 
 
 		if (((ui16_aca_flags & TQ_SENSOR_MODE) == TQ_SENSOR_MODE)) {
-			ui8_temp = ui8_adc_read_throttle(); //read in recent torque value
-			ui16_torque[ui8_torque_index] = (uint8_t) map(ui8_temp, ui8_throttle_min_range, ui8_throttle_max_range, 0, SETPOINT_MAX_VALUE); //map throttle to limits
+			ui16_temp = ui16_adc_read_x4_value(); //read in recent torque value
+			ui16_torque[ui8_torque_index] = (uint16_t) map(ui16_temp, ui16_X4_min_range, ui16_X4_max_range, 0, SETPOINT_MAX_VALUE); //map throttle to limits
 
 			ui8_torque_index++;
 			if (ui8_torque_index > NUMBER_OF_PAS_MAGS - 1) {
